@@ -20,3 +20,5 @@ VMD module requiered https://www.deviantart.com/minmode/art/Vmd-Module-for-Noesi
 
 
 For F2nd/X/MGF decrypt your .bon files using https://github.com/s117/DIVAFILE_Tool or a similar tool.
+
+To speed up extracting models with muliple sub models, use multi_model.bat and follow the instructions.
